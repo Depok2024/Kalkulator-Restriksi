@@ -38,7 +38,7 @@ if Hitung :
     Epirubisin_x="{:.2f}".format(Epirubisin)
     Doksorubisin=BSA*500
     Doksorubisin_x="{:.2f}".format(Doksorubisin)
-    st.write("Paklitaksel:",Paklitaksel_x)
+    st.write("Paklitaksel:",Paklitaksel_x,"mg")
     st.write("Bendamustin:",Bendamustin_x)
     st.write("Irinotekan  2 minggu:",Irinotekan_2_x)
     st.write("Irinotekan  3 minggu:",Irinotekan_3_x)
