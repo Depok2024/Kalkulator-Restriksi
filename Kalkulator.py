@@ -45,7 +45,7 @@ if Hitung :
     st.write("Rituksimab:",rituksimab_x,"mg")
     st.write("Fluorourasil Nasofaring:",Fluorourasil_Nasofaring_x,"mg")
     st.write("Fluorourasil Kolorektal:",Fluorourasil_Kolorektal_x,"mg")
-    st.write("Oksaliplatin:","12X")
+    st.write("Oksaliplatin:","12 Kali")
     st.write("Doksorubisin:",Doksorubisin_x,"mg Untuk Seumur Hidup")
     st.write("Dosetaksel kombinasi :",Dosetaksel_kombinasi_x,"mg")
     st.write("Dosetaksel Tunggal :",Dosetaksel_Tunggal_x,"mg")
