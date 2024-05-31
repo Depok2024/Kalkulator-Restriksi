@@ -50,7 +50,7 @@ if Hitung :
     st.write("Dosetaksel kombinasi :",Dosetaksel_kombinasi_x,"mg")
     st.write("Dosetaksel Tunggal :",Dosetaksel_Tunggal_x,"mg")
     st.write("Kapesitabin :",Kapesitabin_x,"mg")
-    st.write("Epirubisin :",Epirubisin_x,"mg")
+    st.write("Epirubisin :",Epirubisin_x,"mg (Dosis Kumulatif)")
     
 
 
